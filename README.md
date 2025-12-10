@@ -36,7 +36,7 @@ Christmas
 
 ![6](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/likedream.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/likedream)
+[链接🔗](https://likedream.netlify.app/)
 
 ## 第七种 新年倒计时
 
