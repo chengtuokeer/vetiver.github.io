@@ -24,37 +24,37 @@ Christmas
 
 ![4](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/threetree.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/threetree)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/threetree)
 
 ## 第五种 
 
 ![5](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/oneUI.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/oneUI)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/oneUI)
 
 ## 第六种 多种效果（土星🪐等）
 
 ![6](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/likedream.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/likedream)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/likedream)
 
 ## 第七种 新年倒计时
 
 ![7](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/lastyear.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/lastyear)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/lastyear)
 
 ## 第八种 我的好朋友倒计时
 
 ![8](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/happyending.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/happyending)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/happyending)
 
 ## 第九种 生日快乐
 
 ![9](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/birthday.png?raw=true)
 
-[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/birthday)（首次需要魔法）
+[链接🔗](https://chengtuokeer.github.io/vetiver.github.io/birthday)
 
 
 
