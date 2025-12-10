@@ -14,6 +14,6 @@ Christmas
 
 ## 第三种 
 
-![3](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/Chistmas.png?raw=true)
+![3](https://github.com/chengtuokeer/vetiver.github.io/blob/main/png/Chritmas_2.png?raw=true)
 
 [链接🔗](https://chengtuokeer.github.io/vetiver.github.io/Christmas_2)
